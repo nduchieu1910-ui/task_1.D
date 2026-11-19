@@ -1,0 +1,7 @@
+# Moi truong cua D (nhiem vu 1.6). Ghim phien ban; trung voi requirements cua nhom o neo4j, networkx, pandas.
+networkx==3.4.2
+pandas==2.2.3
+scipy==1.14.1
+pytest==8.3.4
+streamlit==1.40.1
+neo4j==5.28.1
